@@ -1,7 +1,15 @@
 #nav_mark {
   height: 32px;
-  width: 32px;
+  width: auto;
 }
+
+.company-logo{
+    height: 100%;
+    width: 100%;
+    display: block;
+    }
+
+
 
 
 /* Space out content a bit */
