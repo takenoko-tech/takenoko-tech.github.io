@@ -1,3 +1,9 @@
+#nav_mark {
+  height: 32px;
+  width: 32px;
+}
+
+
 /* Space out content a bit */
 body {
   padding-top: 1.5rem;
